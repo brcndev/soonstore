@@ -56,4 +56,19 @@ footer h1 {
     body h1 {
         font-size: .9rem;
     }
+
+    footer p {
+        font-size: .8rem;
+    }
+}
+
+@media screen and (max-width:200px) {
+ 
+    body h1 {
+        font-size: .85rem;
+    }
+
+    footer p {
+        font-size: .7rem;
+    }
 }
